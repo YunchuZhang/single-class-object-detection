@@ -1,7 +1,8 @@
-# sigle-object-detection-
+# single-class-object-detection
 
-The codes include data and data.rec. Based on YoLo algorithm and 4 existed model to detect single-class objects.
+The codes include data and data.rec. Based on YoLo algorithm and 4 existed model to detect single-class objects.In the code, it builds CNN body and Loss function in MXNET.
 Also, this code has the function to check tensorboard.
+
 
 # data
 
